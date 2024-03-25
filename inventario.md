@@ -6,5 +6,7 @@
 [processori](componenti/processori.md)
 
 ## Periferiche
+[tastiere](periferiche/tastiere.md)
+
 
 Elettronica Padovana
